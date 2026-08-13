@@ -24,5 +24,5 @@ A Software-Defined Networking (SDN) solution designed to monitor real-time netwo
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/vungocduy/sdn-pso-qos-routing.git](https://github.com/vungocduy/sdn-pso-qos-routing.git)
+   git clone [https://github.com/NgocDuy1206/sdn-pso-qos-routing](https://github.com/NgocDuy1206/sdn-pso-qos-routing)
    cd sdn-pso-qos-routing
